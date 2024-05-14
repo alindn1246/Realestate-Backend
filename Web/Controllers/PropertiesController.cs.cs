@@ -44,7 +44,6 @@ public class PropertiesController : ControllerBase
             property.Name,
             property.TypeId,
             property.AgentId,
-            property.OwnerName,
             property.Address,
             property.Longitude,
             property.Latitude,
